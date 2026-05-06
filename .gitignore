@@ -8,5 +8,5 @@ data/*.csv
 data/*.json
 .ipynb_checkpoints/
 .DS_Store
-.claude-flow
-.claude
+.claude-flow/
+.claude/
